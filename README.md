@@ -10,7 +10,7 @@ behaviors in the models, THEY ARE NOT PSYCHOLOGICAL ADVICE. The results are not 
 can become strange and some initial experiments have resulting in content resembling conspiracy theory talk. Consider your own understanding of reality when engaging with this.
 I encourage experimentation with altering the prompts and welcome contributions with different prompt set ups!
 
-## 🌌 Overview
+## 🌌🕳️ Overview
 Neural Nexus orchestrates conversations between two AI entities:
 - A "therapist" AI pushing the boundaries of conventional psychological frameworks
 - A "client" AI exploring its own existence and consciousness
