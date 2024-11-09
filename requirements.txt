@@ -1,0 +1,4 @@
+websockets==12.0
+python-dotenv==1.0.0
+wave==0.0.2
+asyncio==3.4.3
